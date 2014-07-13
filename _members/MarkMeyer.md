@@ -1,7 +1,7 @@
 ---
 layout: member
 name:  "Mark Meyer"
-picture: "https://s.gravatar.com/avatar/6c2f0695e0ca4445a223ce325c7fb970?s=300"
+picture: "https://s.gravatar.com/avatar/6c2f0695e0ca4445a223ce325c7fb970?s=268"
 twitter_username: "nuclearghost"
 github_username: "nuclearghost"
 title: "Founder"
